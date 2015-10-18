@@ -1,0 +1,26 @@
+{
+  "name": "pallium-rsync",
+  "version": "0.0.1",
+  "description": "Pallium CMS plugin for rsync support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spleenboy/pallium-rsync.git"
+  },
+  "keywords": [
+    "pallium",
+    "cms"
+  ],
+  "author": "Alexander Barrett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spleenboy/pallium-rsync/issues"
+  },
+  "homepage": "https://github.com/spleenboy/pallium-rsync",
+  "dependencies": {
+    "rsync": "^0.4.0"
+  }
+}
